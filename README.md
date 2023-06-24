@@ -1,4 +1,6 @@
-Hi There ! 
+Hi There !
+<br>
+<br>
 My name is Shivank Yadav, and I code.
 I'm a Full Stack Engineering Analyst stacked with .NET Framework, SQL Server, EF, C#, C++, Java and much more.
 
