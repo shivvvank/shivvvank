@@ -1,42 +1,16 @@
-  (O_/ __ \_O)
-  / (o)__(o) \
- (__.--\/--.__)
-====(__/\__)====
-      `--'
-      _||_
-    /'....'\
-   | :    : |
-   ||:    :||
-   ||:    :||
-   ||:    :||
-   ||:    :||    Hello World ! My name is Shivank Yadav, and I code.
-   ||:    :||
-   ||:    :||
-   ||:    :||
-   || `..' ||
-   ( | || | )
-    \| || |/
-     | || |
-     | || |
-     | || |
-     | || |
-     | || |
- __,-' || '-,__
-(___,--'`--,___)
+Hi There ! 
+My name is Shivank Yadav, and I code.
+I'm a Full Stack Engineering Analyst stacked with .NET Framework, SQL Server, EF, C#, C++, Java and much more.
 
-
-I'm Full Stack Engineering Analyst focusing on .NET Backend Development and data engineering(ETL using SSIS).
-
-- 🔭 I’m currently working on expanding my skillset 
-- 🌱 I’m currently revising data structures extensively.
-- 👯 I’m looking to collaborate on a DE project.
-- 💬 Ask me about DE stuff
-- ⚡ Fun fact: I love travelling, working out, stargazing, reading blogs and gardening!
-
+- 🔭 Trying to make it big in tech industry.
+- 🌱 I've worked for a large Canadian bank in creating & managing applications & processes.
+- 💬 Ask me about Coding Problems or problems in general.
+- ⚡ I love travelling, working out, stargazing, watching documentaries and netflix.
+- 📫 How to reach me: LinkedIn@Shivankk
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me: ...
+- ...
 -->
 
 <p align="center">
@@ -56,33 +30,18 @@ I'm Full Stack Engineering Analyst focusing on .NET Backend Development and data
 
 <br />
 <br />
-<br />
- <br />
- <br />
- <br />
- <br />
 
-<h2>Areas of Expertise:</h2>
-
-<h3>Deployment:</h3>
 <!--
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"/>
 -->
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
-<!--
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"/>
 -->
-<img align="left" alt="Docker" width="26px" 
- src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<br />
 <!--
 <h3>OS:</h3>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>
 <br />
 -->
-<h3>Cloud Provider:</h3>
-<img align="left" alt="aws" width="26px" src="https://user-images.githubusercontent.com/56214203/228036629-81e4247b-da4b-4501-b1e9-148278f05644.jpeg" />
 <!--
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 -->
@@ -109,13 +68,4 @@ I'm Full Stack Engineering Analyst focusing on .NET Backend Development and data
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 
 <br />
-
 <br />
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<br />
-
-[linkedin]: https://www.linkedin.com/in/ujjwal-tyagi-datawizard
-<!-- [my_blog]: --!>
