@@ -1,14 +1,8 @@
 Hi There !
 <br>
 <br>
-My name is Shivank Yadav, and I code.
+I am Shivank Yadav, and I code.
 I'm a Full Stack Engineering Analyst stacked with .NET Framework, SQL Server, EF, C#, C++, Java and much more.
-
-- 🔭 Trying to make it big in tech industry.
-- 🌱 I've worked for a large Canadian bank in creating & managing applications & processes.
-- 💬 Ask me about Coding Problems or problems in general.
-- ⚡ I love travelling, working out, stargazing, watching documentaries and netflix.
-- 📫 How to reach me: LinkedIn@Shivankk
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvvank&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
