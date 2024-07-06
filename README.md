@@ -1,8 +1,4 @@
-Hi There !
-<br>
-<br>
-I am Shivank Yadav, and I code.
-I'm a Full Stack Engineering Analyst stacked with .NET Framework, SQL Server, EF, C#, C++, Java and much more.
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvvank&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
